@@ -1,2 +1,2 @@
 #!/usr/bin/zsh
-echo -ne "\033c"
+alias fuckoff='echo -ne "\033c"'
