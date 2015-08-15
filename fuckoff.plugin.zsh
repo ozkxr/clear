@@ -1,5 +1,2 @@
-PLUGIN_DIR=$(dirname $0)
-
-preexec() {
-  alias | ${PLUGIN_DIR}/fuckoff
-}
+#!/usr/bin/zsh
+echo -ne "\033c"
